@@ -25,7 +25,7 @@ To use the Metanit PHP Python Parser, follow these steps:
 1. Клонуйте репозиторій:
     ```sh
     git clone https://github.com/cirin0/php-metanit-scraper.git
-    cd php-lessons-scraper
+    cd php-metanit-scraper
     ```
 
 2. Створіть віртуальне середовище (рекомендовано) та активуйте його:
